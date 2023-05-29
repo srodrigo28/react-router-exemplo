@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+.menu-bar{
+  background-color: darkviolet;
+  height: 70px;
+  width: 100%;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+a {
+  list-style: none;
+  text-decoration: none;
+}
